@@ -1,11 +1,20 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello, Bharat here! Welcome to my [webpage][website]. I am currently residing at University of Bristol (United Kingdom) doing a [PhD in Mass Evacuation Modelling][massevac]. I completed my undergraduate Masters degree in Civil and Architectural Engineering at University of Bath in 2012. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+I like spending my time sitting in cafes, coding, reading, organising and collaborating on tech projects (hint hint)!
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+### Contact me
+
+Find me on [Github][github] / [Twitter][twitter] / [Facebook][facebook] /
+[Email](mailto:b.kunwar@gmail.com).
+
+[website]: http://brtknr.com
+[massevac]: http://massevac.github.io
+[github]: https://github.com/brtknr
+[facebook]: https://facebook.com/brtknr
+[twitter]: https://twitter.com/brtknr

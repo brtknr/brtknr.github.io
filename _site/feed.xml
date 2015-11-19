@@ -1,40 +1,295 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Your awesome title</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
-</description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 16 Oct 2015 13:23:30 +0100</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2015 13:23:30 +0100</lastBuildDate>
+    <title></title>
+    <description>research, code, opinions</description>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 19 Nov 2015 13:22:59 +0000</pubDate>
+    <lastBuildDate>Thu, 19 Nov 2015 13:22:59 +0000</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
-        <title>Welcome to Jekyll!</title>
-        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+        <title>Forum is Free: Housing and Energy</title>
+        <description>&lt;p&gt;On 11 May, Bristol Green Party hosted a forum to discuss housing and energy at The Station in central Bristol.&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;The meeting was chaired by Darren Hall, Green Party candidate for Bristol West and Director of Bristol Green Week and on the panel were:&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Oona Goldsworthy, Chief Executive of &lt;a href=&quot;unitedcommunities.org.uk&quot;&gt;United Communities&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mike Roberts, Director of &lt;a href=&quot;http://www.habhousing.co.uk&quot;&gt;HAB housing&lt;/a&gt; owned by Kevin McCloud&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Shankari Raj Edgar, Director of &lt;a href=&quot;nudgegroup.com&quot;&gt;Nudge Group&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Keith Cowling, Chair of Bristol &lt;a href=&quot;http://bristolclt.org.uk/&quot;&gt;Community Land Trust&lt;/a&gt; and Director of Community Buildings Federation&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&amp;#39;Tom&amp;#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &amp;#39;Hi, Tom&amp;#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/new_build.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Impending affordable housing crisis (&lt;a href=&quot;http://www.architectsjournal.co.uk/pictures/636xAny/5/8/0/1309580_affordable_new_builds.jpg&quot;&gt;source&lt;/a&gt;).&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Oona clarified that housing should be a third of your income. The definition of affordable housing lies somewhere along the lines of 80% of the market rent value. She suggested that going ahead and occupying empty houses may be the only option left as asking politely is not working. She explained that local authorities need to see housing development as something that they can gain from rather than something that they are throwing money into as the cumulative cost of renting a private property for a family to stay in temporarily outweighs the savings made by not building social housing.&lt;/p&gt;
+
+&lt;p&gt;Mike thinks that at present, even the best stuff from volume house builders is not good enough and that Britain has developed an attitude of NIMBY-ism when it comes to volume house building. He suggested that we need to start putting people at the heart of the construction business and as a result, his company is looking into new ways of funding build projects such as crowdfunding rather than corporate interests deciding design outcomes that are not suitable for anybody. He was particularly fond of shared ownership housing which can also help to build communities.&lt;/p&gt;
+
+&lt;p&gt;Mike wants solar PV to be an integral part of any new builds and that pension funds are an ideal funding source for this as the long term returns requirement of the funds would be satisfied by the long term economic benefits of solar PV alongside its environmental benefits and low energy bills to the occupants. Later, he explained that developers need assurance that risks need to be minimised for developers so that that can keep their margins low although I am slightly skeptical about exactly what he means by this.&lt;/p&gt;
+
+&lt;p&gt;In response to ‘One Structural Change’ that Darren should be fighting for, he was certain that the way we evaluate land value tax needs fundamental restructuring so that land owners cannot simply sit on a property preventing development on the site in this time of housing crisis simply so that they can reap benefits of rise in land value in the future due to additional infrastructure provision.&lt;/p&gt;
+
+&lt;p&gt;Keith has successfully led a community effort to build 12 houses in Bristol. He points out that Bristol has one of the biggest gaps between people’s wages and the cost of housing in the UK. In his opinion, localism and community taking the reins is not working at the moment and that authorities will the end without willing the means or dismantling the bureaucratic hurdles when it comes to community led housing development effort.&lt;/p&gt;
+
+&lt;p&gt;In response to a question from a member of the audience about ‘Why is affordable leasing possible in somewhere like Netherlands and not here?’, Keith gives example of Germany where housing is not seen as a commodity that is to be exploited to the extent that it is in the UK. He has noticed that people are far more likely to remain in a community if they are involved in the design process. He gives another example of housing coop in Leeds where they have come up with an innovative way of drawing up contract where the tenants who all have a stake in the coop pay rent that is pegged to their income and their rights get transferred when they leave the coop.&lt;/p&gt;
+
+&lt;p&gt;Shankari begins from the premise that society, economy and environment are all interconnected and whenever one is emphasised, others are subjugated. A good mix is one third affordable housing, one third rental and one third ownership however I would like to know where these stats come from. The point does remain that we need to cater for the whole cross section of the society.&lt;/p&gt;
+
+&lt;p&gt;At the moment, volume house builders are building half the number of homes required whilst at the same time doubling their profit. To this, a man in the audience raised the point that Bristol currently needs to build 2000 houses a year for which we need 40 football pitches worth of land which we don’t have. Then someone asked if beautiful high density urban housing was even possible? Someone else then had praises for &lt;a href=&quot;http://en.wikipedia.org/wiki/Rob_Adams_(architect)&quot;&gt;Rob Adams&lt;/a&gt; in pioneering social urban densification in Australia.&lt;/p&gt;
+
+&lt;p&gt;Schools are just as important in Shankari’s view as they are the key to an integrated society. Schools should not be segregated based on faith and that tools like meditation should be deployed early on as they have shown some evidence to raise self-awareness in children. The goal of schools should not be to produce workers for the economy but also human beings with concern for the society and the environment. There is also a role for permaculture to increase biodiversity.&lt;/p&gt;
+
+&lt;p&gt;A representative from &lt;a href=&quot;http://www.ecomotive.org&quot;&gt;Ecomotive&lt;/a&gt;, a social enterprise who are trying to increase the debate around housing raised the point that the city council is currently assessing how much housing we need at the moment and that the main people who are currently feeding into the assessment are volume developers. There is a need for community voices to be heard and the organisation is welcoming involvement.&lt;/p&gt;
+
+&lt;p&gt;There was concern that landlords increasing energy efficiency by 2018 may not have an adequate amount of impact.&lt;/p&gt;
+
+&lt;p&gt;Summary from Darren:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://carriageworks.org.uk/proposals/fifth-capital-planning-application/making-an-objection/&quot;&gt;Carriageworks&lt;/a&gt; development should be opposed in its current form and should instead be a community led project.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;There is a huge role for the public sector to create affordability, not just see houses as a unit. There was reference to the concept of ‘blockade’ in Naomi Klien’s recent book ‘This Changes Everything’.&lt;/li&gt;
+  &lt;li&gt;There is a need for long term community engagement in the design process.&lt;/li&gt;
+  &lt;li&gt;We need to press forward with devolution agenda.&lt;/li&gt;
+&lt;/ol&gt;
 
 </description>
-        <pubDate>Fri, 16 Oct 2015 14:23:04 +0100</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/10/16/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/10/16/welcome-to-jekyll.html</guid>
+        <pubDate>Thu, 12 Mar 2015 16:21:11 +0000</pubDate>
+        <link>http://127.0.0.1:4000/2015/03/12/forum-is-free-housing-and-energy/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2015/03/12/forum-is-free-housing-and-energy/</guid>
+        
+        <category>housing</category>
+        
+        <category>newbuild</category>
+        
+        <category>forumisfree</category>
         
         
-        <category>jekyll</category>
+      </item>
+    
+      <item>
+        <title>Bristol People’s Question Time</title>
+        <description>&lt;p&gt;On 10th March, Bristol People’s Assembly hosted People’s Question Time at City Road Baptist Church in Stokes Croft.&lt;/p&gt;
+
+&lt;p&gt;In the panel were Rufus Hound (Comedian and Actor), Pastor Eric Aidoo (from the Church), Romaine Phoenix (Chair of The People’s Assembly), John McInally (Vice President, PSC Union) and Sauda Kyalambuka (Educator and Board member of African Voices Forum).&lt;/p&gt;
+
+&lt;p&gt;Hound opened with the remark that in this age of austerity, the rich got richer. He used the analogy of vampires living up in a high castle feeding on inhabitants of a village nearby idly standing by offering up members of their community as victims so that the rest can go on living. It would be unthinkable from our perspective to let that carry on happening and yet, the way that the corporations are leeching off our civilisation is exactly the same thing using austerity as an excuse. Therefore, he suggest that we ‘Kill the Vamps’!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/whatwedo.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;V_ampire Capitalists from ‘&lt;a href=&quot;http://en.wikipedia.org/wiki/What_We_Do_in_the_Shadows&quot;&gt;What We Do In The Shadows&lt;/a&gt;’ (well worth a watch)._&lt;/p&gt;
+
+&lt;p&gt;One question that was whirling in my mind was: how does austerity make the rich richer? One way of thinking about it is that a government, which is in theory an institution held up by the people it is representing has the power to print as much money as it likes, that is if it wants to! However, every time it prints money, the people whom it hurts the most is the rich as they have a larger share of the wealth and more of it gets devalued. It is therefore in the interest of the politicians, especially if they have a right wing agenda, that they try to maintain the value of the wealth of the richest. So if printing money is not on the cards, the only other way to maintain a stable government is by slashing funds, which is what we see today.&lt;/p&gt;
+
+&lt;p&gt;However, austerity also gives another advantage to the wealthiest. Squeezed funds means that the public sector cannot operate as effectively as it needs to. It therefore enables private companies to take over public serves using the rhetoric that the private sector can introduce efficiencies to the public sector, which is something we are all too familiar with.&lt;/p&gt;
+
+&lt;p&gt;Then someone in the panel pointed out that Capitalism is just one way of organising the planet. In 1995, bosses had 45 times the average pay now that figure is up to 180 times.&lt;/p&gt;
+
+&lt;p&gt;McInally drew attention to the &lt;a href=&quot;http://en.wikipedia.org/wiki/Beveridge_Report&quot;&gt;1942 Belveridge Report&lt;/a&gt; which was the foundation for NHS as something positive to come out of the Second World War which would be for the benefit of everybody. However, recent reorganisation is preparing it for privatisation. Privatisation in this context is nothing more than a transfer of wealth from the state to the richest. PFI scheme introduced by the Labour party and expanded by the Tories puts pressure on NHS branches to repay debt at the expense of quality of care that it provides.  NHS is the most cost effective health care system in the developed world and this is what is at stake.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000/images/belveridge.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Belveridge Report&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Immigration was also discussed. With 60 percent of cuts promised by the Tories yet to come, Hound reminded everyone that Politician’s job was to sell people dreams. He used the analogy of ‘Old White Men’ who want to keep things the way they are (to reflect the large demographic of UKIP voters) to bring up the point that politicians are selling them the idea that only if immigrants or any other marginalised groups were to not exist, all the problems would disappear.&lt;/p&gt;
+
+&lt;p&gt;A representative from Bristol Women’s Voice also spoke about how women were the group hit hardest by austerity as there have been cuts to funds provided to single parents and 92% of single parents are women. They are unable to get childcare, unable to attend interviews and unable to get jobs. Within this group BME community are being hit even harder as it is even more difficult to have access to language training and other forms of skill development.
+&lt;img src=&quot;http://127.0.0.1:4000/images/suff.jpg&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Women standing up to injustice&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;There was a plead for solidarity from a woman who had travelled all the way down from Gloucestershire to tell everyone a story of how her family has recently been victims of racist abuses after some members of EDL moved in next door making life extremely unpleasant for them. Things had escalated as far as going to the court after attempts to ask help of local conservative politician backfired when they were told that they should move elsewhere. For those of you who can, lets give them solidarity on 23 March at Gloucester court when they have a hearing.&lt;/p&gt;
+
+&lt;p&gt;Someone recommended watching this documentary called &lt;a href=&quot;https://www.youtube.com/watch?v=u7Qrx7i9AKM&quot;&gt;Salma&lt;/a&gt; which is about a South Indian girl who is locked away by her family in her cottage as soon as she reaches puberty and not allowed to attend school. I am not entirely sure how it fits into the context of the discussion? Maybe I misheard it.&lt;/p&gt;
+
+&lt;p&gt;Save these important dates for the calendar:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Women’s Question Time - 12 March 2014&lt;/li&gt;
+  &lt;li&gt;People’s March for the NHS - 14 March 2014&lt;/li&gt;
+  &lt;li&gt;Gloucester Racism Court Case Solidarity Action - 23 March 2014&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;And check out these organisations in Bristol if you want to get involved in some grassroots activism:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.acorncommunities.org.uk&quot;&gt;ACORN&lt;/a&gt; - community action group that mobilises action for issues like housing crisis etc.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bristolwomensvoice.org.uk&quot;&gt;Bristol Women’s Voice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tuc.org.uk/south-west&quot;&gt;Southwest TUC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;thebristolparty.com&quot;&gt;The Bristol Party&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bristolpeoplesassembly.org&quot;&gt;Bristol People’s Assembly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;bristolgreenparty.org.uk&quot;&gt;Bristol Green Party&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+</description>
+        <pubDate>Thu, 12 Mar 2015 12:00:42 +0000</pubDate>
+        <link>http://127.0.0.1:4000/2015/03/12/bristol-peoples-question-time/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2015/03/12/bristol-peoples-question-time/</guid>
         
-        <category>update</category>
+        <category>people&#39;s assembly</category>
+        
+        <category>acorn</category>
+        
+        <category>women</category>
+        
+        <category>bristol</category>
+        
+        <category>tuc</category>
+        
+        <category>immigration</category>
+        
+        <category>injustice</category>
+        
+        <category>austerity</category>
+        
+        <category>nhs</category>
+        
+        <category>cuts</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Another Angry Voice</title>
+        <description>&lt;p&gt;Another Angry Voice (AAV) aka Tom paid a visit to Bristol on 5th March.
+&lt;img src=&quot;http://127.0.0.1:4000/images/aav.png&quot; alt=&quot;image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;An example of an infographic by AAV.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;In the introduction, AAV emphasised that he was a normal guy and that if he can do a political blog then anyone can.&lt;/p&gt;
+
+&lt;p&gt;AAV brings up the information war that left has been quite bad at communicating left wing ideas. Terms like &lt;strong&gt;Socialist&lt;/strong&gt;, &lt;strong&gt;Anarchist&lt;/strong&gt;, &lt;strong&gt;Communist&lt;/strong&gt;, &lt;strong&gt;Green&lt;/strong&gt; etc. are all loaded with distorted emotional meanings that people do not want to be associated with. He calls it ‘Tabloidesque’ definition:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Socialism - which really means ownership of the means of production, but most people are conditioned to think that it means spending other people’s money - politics of envy&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Social liberalism - political correctness gone mad - discrimination against native Brits&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Anarchism - let’s destroy everything&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Environmentalism - hippies - anti-science - over subsidised wind farms&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Feminism - discrimination against men&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;AAV’s strategy is to communicate the ideas only, without using the label, because as soon as you label yourself as something, attacks follow. He says:
+&amp;gt; “You can get socialist ideas across without ever mentioning the word socialist because the definition is owned by the establishment and the right wing.”&lt;/p&gt;
+
+&lt;p&gt;AAV emphasises the importance of using &lt;strong&gt;Emotive argument&lt;/strong&gt; backed up by facts and logic. Apparently there is research to show that people are far more receptive to emotive arguments. An example of emotive argument would be:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;LHS: Tories shut 10 fire stations causing distress to London firemen in order to save £45 millions&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;RHS: Meanwhile, RBS which is 82% taxpayer owned hands out £607 to bankers in bonus payment&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;AAV also likes &lt;strong&gt;Counterpunches&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David Cameron talking about decreasing national debt with contrary evidence of graph of total national debt increasing (using ONS as source).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;And &lt;strong&gt;Information blast&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Did you know: As a result of Secret Court legislation pushed through parliament by the Tories and Lib-Dems, it is now possible to have their fate decided in a courtroom that they are not allowed to enter, on charges that they are not allowed to know based on evidence that they are not allowed to see.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Tories handing out contracts to Serco and G4S in the name of competition despite their awful records&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Through his consistent use of infographics drawn primarily using Microsoft Paint to illustrate his points simply, AAV has raised the profile of the voice of the left and has nearly 140,000 followers on his Facebook page at the time of writing this.
+&amp;gt; “The enemy wants us small with a language that nobody understands, wants us as a minority, wants us refuged in our traditional symbols. He is delighted because he knows that in this way, we are not a danger.” - Pablo Ignesias&lt;/p&gt;
+
+&lt;p&gt;AAV uses example of Pablo Iglesias from Podemos, a Spanish movement that has formed a high profile left wing political party in less than a year. He describes their communication strategy as both skillful in their simple use of language and evil in their use of emotive language to activate the masses against the establishment.
+&amp;gt; “The smart way to keep people passive and obedient is to strictly limit the spectrum of acceptable opinion, but allow very lively debate within that spectrum.” - Noam Chomsky&lt;/p&gt;
+
+&lt;p&gt;Is it not all that BBC Question Time is week after week? Issues covered are identical, typically things like immigration, benefits, NHS… far from the issues that really affect people in real life, only to distract us from the real issues.&lt;/p&gt;
+
+&lt;p&gt;AAV compares voting for Labour as the same as voting for Tories without as much brutality.&lt;/p&gt;
+
+&lt;p&gt;On capitalism, AAV clarified that large corporations like Apple are not a good example of capitalism and its success as is often quoted.&lt;/p&gt;
+
+&lt;p&gt;With regards to the benefit cuts, AAV speculates that the public sector workers are under pressure to get a number of people off benefits benefits every week. As a result, people who are most vulnerable are pressured to jump bureaucratic hurdles and are forced into destitution.&lt;/p&gt;
+
+&lt;p&gt;As an alternative information source, AAV recommends Facebook over Twitter as he thinks that the information can reach more people than Twitter.&lt;/p&gt;
+
+&lt;p&gt;AAV is an admirer of the new Greek financial minister Yanis Varoufakis of the Syriza party and recommends watching this &lt;a href=&quot;https://www.youtube.com/watch?v=pwAClUrhrek&quot;&gt;interview with Max Keiser&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On &lt;strong&gt;Green party&lt;/strong&gt;, AAV thinks that revolution in the UK will probably called something else but shares similar ideology, possibly a coalition of the left like the Syriza party in Greece. He thinks that Greens, who have seen a massive surge in membership recently has a connotation to being a single issue party despite their effort to incorporate issues like social justice into their image.&lt;/p&gt;
+
+&lt;p&gt;A member of the audience draws attention to Bristol’s own independent voice &lt;a href=&quot;http://thebristolcable.org&quot;&gt;Bristol Cable&lt;/a&gt; who publish on a bi-monthly basis.&lt;/p&gt;
+
+&lt;p&gt;AAV recommends the following blogs who have shared a similar beginning:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/guyfawkesrevolt&quot;&gt;The last person to enter parliament with honest intentions was Guy Fawkes.&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.facebook.com/coalnotdole?fref=ts&quot;&gt;Coal Not Dole&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Check out &lt;a href=&quot;http://anotherangryvoice.blogspot.co.uk&quot;&gt;AAV’s own blog here&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 11 Mar 2015 16:07:05 +0000</pubDate>
+        <link>http://127.0.0.1:4000/2015/03/11/another-angry-voice/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2015/03/11/another-angry-voice/</guid>
+        
+        <category>another angry voice</category>
+        
+        <category>politics</category>
+        
+        <category>syriza</category>
+        
+        <category>podemos</category>
+        
+        <category>bristol</category>
+        
+        <category>social media</category>
+        
+        <category>green party uk</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>First post!</title>
+        <description>&lt;p&gt;I have just updated the website and finally acquired &lt;a href=&quot;www.brtknr.com&quot;&gt;brtknr.com&lt;/a&gt; for good. Ha! We have all made indelible marks on the Internet. Here, I disclose all the nodes where I have made mine that I can remember. Look no further.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Mar 2015 14:29:13 +0000</pubDate>
+        <link>http://127.0.0.1:4000/2015/03/04/first-post/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2015/03/04/first-post/</guid>
+        
+        <category>disclosure</category>
+        
         
       </item>
     
