@@ -1,0 +1,1 @@
+find ./.git/ -name "Icon?" -type f -delete
