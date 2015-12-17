@@ -24,7 +24,7 @@ In the editor, I entered the following line which creates and appends date, time
 *       *       *       *       *       date >> ~/Desktop/temp.txt && /Applications/TemperatureMonitor.app/Contents/MacOS/tempmonitor -c -l -a >> ~/Desktop/temp.txt
 {% endhighlight %}
 
-Press CTRL+X then ENTER to save the file. Then you're done! Wait for the file to be created on your desktop.
+Press CTRL+X, letter 'Yes' then ENTER to save the file. Then you're done! Wait for the file to be created on your desktop.
 
 To filter the DIODE temperatures, simply enter the following command into the terminal.
 
