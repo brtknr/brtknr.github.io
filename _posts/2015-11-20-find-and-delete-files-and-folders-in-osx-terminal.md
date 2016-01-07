@@ -30,12 +30,8 @@ For files:
 
 >	find . -name "Icon?" -type f -delete
 
-For folders:
+For folders (although you may get a warning message saying 'No such file or directory'):
 
->	find . -name "Icon?" -type d -delete
-
-For files and folders
-
->	find . -name "Icon?" -type f -o -name "Icon?" -type d -delete
+>	find . -name "Icon?" -type d -exec rm -rf {} \;
 
 The __?__ symbol after the filename is a wildcard for a single character. To enable more characters, use __*__ instead.
