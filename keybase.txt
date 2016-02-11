@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/brtknr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://brtknr.com
+  * I am brtknr (https://keybase.io/brtknr) on keybase.
+  * I have a public key with fingerprint CF09 83BC 4553 BF18 8649  7BE2 D0E3 F1C0 E8D5 5161
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c99edc41949d84860e8d8b677311bb4334c0f672e4f6da6f2a03508f554b60d40a",
+            "fingerprint": "cf0983bc4553bf1886497be2d0e3f1c0e8d55161",
+            "host": "keybase.io",
+            "key_id": "d0e3f1c0e8d55161",
+            "kid": "0101c99edc41949d84860e8d8b677311bb4334c0f672e4f6da6f2a03508f554b60d40a",
+            "uid": "4798630d7593145b7e3dd5c2a43f9519",
+            "username": "brtknr"
+        },
+        "service": {
+            "hostname": "brtknr.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1455196932,
+    "expire_in": 157680000,
+    "prev": "4dfb0be41a280c05803889cf3fad12a0cbb1911e0ccb18fe79d1e1ea40e707fc",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIkAnicrVJbSBVBGD52VcMIscKMLktkkcnM2dnLnCjoRvVQZMQJozrszM7opu4e
+96x2ORp2NQqDioooCSyUhCiyjMrKTKhMXyxKMTEq6KIJBhEIQrNSD0GPzcsw33zf
+93//z9+aMjaQnJB7LvfE4erOBQkvHp8qCYSbjo+LS8Qx90ihuFTARi9WaLKYFymw
+TCkkAQggxZiZFEGMsKkjXQVMN3WiapoMISFIlhEFXNWCDHHVNFQeNICsAJ0rCiIq
+MBEwpCyJW3Yec6OuZXvClnKAdZlQpCgy4VDXVYQ1woImYDKH1K+gKFCFQpjvxHyF
+CEeMGMu2HIGJR2Q03j/4/zl3yagd0rCuysDUFCxDpBCNyaap0KCBZI4ViH1ijLm2
+UcQEm7hege1K5VmSwEotyvyx+n389Z9NnSKhi7qO51CnUOD5nhcN+TJvT9Tn7WIk
+8tshQizbFCMUglLmxizHlkJQMKln+ZYik0ihYjmYJbHdUctlEctnKJqqA3H8MqzU
+b8TkBBCGoBHUAQWKDmRdx5TL3DChGAAlBGIIGaCUQJ0zDZuQQWYgwDSgcSr5PRXb
+jhRSRUwjT1jGrDzb8EpcJpW3NG8bF0hIDkwYP8ZfrUBy0pQ/C/euPzGw/3NZBxrT
+X5l2cqAvLxD9Mn/DkRvvMxp7bk/40RbacWWktHNa8qeVrUMFX9/yZ7XzHtdM52HN
+re6oKqt+3R2fUTlS83B1zsBNiDdd61fOVpeFU5sbF19sOny/Yv32ebUze1u3zNYu
+d24ON+xKSVtVN3RmZ8ve+uGcru72pMqtB8IoZXfu1VkPcfPptK7evqbB+lvtVW+r
+ylc+f/IqVV1/b9LE4VMLKzKrjs39WJxo44kPOtSfZxLnTOo1vk+evO74hqnRO08b
+02e9fHR1TXl8Ud1yd8Wb8zkZd5cuq/+WeX3t6ZPh9I5428GGJSNPclt6khKjIxsP
+XFpz6EIDrz9b/KFi39HVg2W/APPlQRw=
+=NKXH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brtknr
+
+==================================================================
