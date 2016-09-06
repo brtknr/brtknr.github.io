@@ -6,7 +6,6 @@ tags:
 - housing
 - newbuild
 - forumisfree
-tumblr_url: http://brtknr.com/post/113434552250/form-is-free-housing-and-energy
 ---
 On 11 May, Bristol Green Party hosted a forum to discuss housing and energy at The Station in central Bristol.
 
