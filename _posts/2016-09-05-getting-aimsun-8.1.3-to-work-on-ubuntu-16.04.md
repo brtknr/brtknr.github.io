@@ -20,5 +20,5 @@ Now that Aimsun is fixed, let's all enjoy this cool video of an intersection:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ufK2XRGUjuc" frameborder="0" allowfullscreen></iframe>
 
-[libvpx]:(https://launchpad.net/ubuntu/%2Bsource/libvpx)
-[1.3.0-3]:(https://launchpad.net/ubuntu/+archive/primary/+files/libvpx1_1.3.0-3ubuntu1_amd64.deb)
+[libvpx]:https://launchpad.net/ubuntu/%2Bsource/libvpx
+[1.3.0-3]:https://launchpad.net/ubuntu/+archive/primary/+files/libvpx1_1.3.0-3ubuntu1_amd64.deb
