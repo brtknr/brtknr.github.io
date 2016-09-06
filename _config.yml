@@ -43,8 +43,9 @@ harmony:
 
 # Conversion / Build settings 
 markdown:    kramdown
-# This is how you put pygments config in jekyll 2.0 instead of pygments: true
-highlighter: pygments 
+
+# Github complains about pygment highlighter so we are changing this to rouge instead.
+highlighter: rouge 
 
 # Permalinks
 permalink:        pretty
