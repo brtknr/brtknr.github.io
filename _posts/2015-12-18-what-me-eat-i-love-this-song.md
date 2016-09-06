@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 'What me eat by Macka B: I love this song!'
+title: 'What me eat by Macka B'
 date: '2015-12-18T15:11:00+00:00'
 tags:
 - vegan
 - what vegans eat
 ---
 
-I would definitely attribute this song as being one of the primary sources of inspiration that helped me in the direction of going vegan!
+I love this song. Vegan solidarity!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FLqjLn0W5K0" frameborder="0" allowfullscreen></iframe>
 
