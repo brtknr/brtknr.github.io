@@ -1,5 +1,11 @@
-# Instrutions
+# This website
 
-To run jekyll server locally, just do:
-  
-    jekyll serve --config _config.yml,_config-dev.yml
+    http://www.brtknr.com
+
+# Deployment on local server
+
+On bash:
+
+```  
+$ jekyll serve --config _config.yml,_config-dev.yml
+```    
