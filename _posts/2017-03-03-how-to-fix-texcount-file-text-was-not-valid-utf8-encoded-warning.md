@@ -22,9 +22,10 @@ It was not until one of my supervisors noticed that something was causing strang
 
 - Open a text editor that supports regex based search, for example: [Sublime text][sublimetext].
 - Enable regex and case sensitivity and search for `[\x80-\xFF]` as shown in the image below. This excludes all the _ASCII_ characters which `texcount` does not have any issues with.
-- Deal with the found characters on a case by case basis. There is usually a __LaTeX__ representation to produce the same characters which you can Google for yourself.
 
 ![sublime-regex][sublime-regex]
+
+Now you can deal with the found characters on a case by case basis. There is usually a __LaTeX__ representation of the Unicode characters if you actually need them which you can Google for yourself.
 
 [sublimetext]:http://sublimetext.com
 [sublime-regex]:{{ site.url }}/images/sublime-regex.png
