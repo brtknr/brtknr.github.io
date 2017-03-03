@@ -20,8 +20,11 @@ And each time, I would get the following warning:
 
 It was not until one of my supervisors noticed that something was causing strange artefacts to appear in the compiled PDF document in the feedback stage that I realised that it was to do with the Unicode characters hiding in the literature review chapter when I was copying block citation quotes from other publications. I was obviously not going to look through an entire chapter for Unicode characters so here is how I automated the process:
 
-- Open a text editor that supports regex based search, for example: [Sublime text][sublime].
-- Enable regex and case sensitivity and search for `[\x80-\xFF]`. This excludes all the _ASCII_ characters which `texcount` does not have any issues with.
+- Open a text editor that supports regex based search, for example: [Sublime text][sublimetext].
+- Enable regex and case sensitivity and search for `[\x80-\xFF]` as shown in the image below. This excludes all the _ASCII_ characters which `texcount` does not have any issues with.
 - Deal with the found characters on a case by case basis. There is usually a __LaTeX__ representation to produce the same characters which you can Google for yourself.
 
-[sublime]:http://sublimetext.com
+![sublime-regex][sublime-regex]
+
+[sublimetext]:http://sublimetext.com
+[sublime-regex]:{{ site.url }}/images/sublime-regex.png
