@@ -4,9 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-Hello, Bharat here! Welcome to my [webpage][website]. I am currently residing at University of Bristol (United Kingdom) doing a PhD in [Mass Evacuation][massevac] modelling. I completed my undergraduate Masters degree in Civil and Architectural Engineering at University of Bath in 2012. 
+Hello, Bharat here! Welcome to my [webpage][website]. I live in Bristol and I am currently undertaking a doctorate at University of Bristol (United Kingdom) in [Mass Evacuation][massevac] modelling. Previously, I was living in Bath to complete an undergraduate Masters degree in Civil and Architectural Engineering at University of Bath in 2012. 
 
-I like spending my time sitting in cafes, coding, reading, organising and collaborating on tech projects (hint hint)!
+I like spending my time sitting in coffee shops, reading, organising, travelling and collaborating on coding projects (hint hint)!
 
 ### Contact me
 

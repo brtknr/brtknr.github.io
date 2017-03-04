@@ -6,4 +6,5 @@ tags:
 - disclosure
 tumblr_url: http://brtknr.com/post/112694755295/first-post-and-this-is-what-he-has-to-say
 ---
-I have just updated the website and finally acquired [brtknr.com](www.brtknr.com) for good. Ha! We have all made indelible marks on the Internet. Here, I disclose all the nodes where I have made mine that I can remember. Look no further.
+
+I have just updated the website and finally acquired [brtknr.com](www.brtknr.com) for good which is now hosted on Github pages too which is an excellent free of charge service if I may say so. It has just the right amount of manual tweaking to make you think you have control over how the information is presented on the website but sufficient structures already in place, for example, using the Jekyll static pages generator to automate most of the unpleasantries of reinventing the wheel of coding another site from scratch. This website will simply serve as a place where I can put my thoughts out there for people to look at if they want to.

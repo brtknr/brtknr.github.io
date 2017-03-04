@@ -13,11 +13,12 @@ tags:
 tumblr_url: http://brtknr.com/post/113347547465/another-angry-voice
 ---
 Another Angry Voice (AAV) aka Tom paid a visit to Bristol on 5th March.
+
+AAV introduced himself as a regular guy and emphasized that if he can do a political blog then anyone can.
+
 ![image][aav]
 
 _An example of an infographic by AAV._
-
-In the introduction, AAV emphasised that he was a normal guy and that if he can do a political blog then anyone can.
 
 AAV brings up the information war that left has been quite bad at communicating left wing ideas. Terms like **Socialist**, **Anarchist**,&nbsp;**Communist**, **Green** etc. are all loaded with distorted emotional meanings that people do not want to be associated with. He calls it 'Tabloidesque' definition:
 

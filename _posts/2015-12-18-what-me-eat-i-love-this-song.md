@@ -13,7 +13,6 @@ I love this song. Vegan solidarity!
 
 Here are the lyrics borrowed from [this webpage](http://genius.com/Macka-b-wha-me-eat-lyrics).
 
-{% highlight text %}
 [Intro]
 Selamta (Greetings in Amharic)
 Ital (natural) we Ital and Vegan we Vegan
@@ -128,4 +127,3 @@ I just remember some more I forgot to tell you
 The Nectarines and tangerines and clementines and guanabana
 Lychhe, oats and ginger, kale and spirulina
 Mung beans, wholemeal pasta etc
-{% endhighlight %}
