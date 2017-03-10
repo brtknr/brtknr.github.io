@@ -10,28 +10,39 @@ tags:
 - files
 - folders
 ---
+
 Finding and deleting files and folders in OSX is simple. Open your terminal. In order to just find your files/folders (__non destructive__):
 
 For files:
 
->	find . -name "Icon?" -type f
+{% highlight bash %}
+find . -name "Icon?" -type f
+{% endhighlight %}
 
 For folders:
 
->	find . -name "Icon?" -type d
+{% highlight bash %}
+find . -name "Icon?" -type d
+{% endhighlight %}
 
 For files and folders
 
->	find . -name "Icon?" -type f -o -name "Icon?" -type d
+{% highlight bash %}
+find . -name "Icon?" -type f -o -name "Icon?" -type d
+{% endhighlight %}
 
-In order to delete them, just add __-delete__ operator to the end (__DESTRUCTIVE__):
+In order to delete them, just add `-delete` operator to the end (__DESTRUCTIVE__):
 
 For files:
 
->	find . -name "Icon?" -type f -delete
+{% highlight bash %}
+find . -name "Icon?" -type f -delete
+{% endhighlight %}
 
 For folders (although you may get a warning message saying 'No such file or directory'):
 
->	find . -name "Icon?" -type d -exec rm -rf {} \;
+{% highlight bash %}
+find . -name "Icon?" -type d -exec rm -rf {} \;
+{% endhighlight %}
 
-The __?__ symbol after the filename is a wildcard for a single character. To enable more characters, use __*__ instead.
+The `?` symbol after the filename is a wildcard for a single character. To enable more characters, use `*` instead.

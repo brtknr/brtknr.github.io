@@ -8,25 +8,31 @@ tags:
 - crontab
 - OSX
 ---
+
 I have just set up a way to automatically log temperature using OSX terminal because my computer was frequently overheating and I wanted to investigate why. Here is breakdown of how I did it.
 
-First of all, I installed [Temperature Monitor for OSX][TemperatureMonitor] from this URL into the application folder.
+First of all, I installed [Temperature Monitor for OSX][temp-monitor] from this URL into the application folder.
 
-On terminal, I entered the following command to edit crontab using nano environment.
+On terminal, I entered the following command to edit `crontab` using `nano` text editor environment.
 
-	env EDITOR=nano crontab -e
+{% highlight bash %}
+env EDITOR=nano crontab -e
+{% endhighlight %}
 
-In the editor, I entered the following line which creates and appends date, time and  temperatures from all your built-in sensors at a minute interval to ~/Desktop/temp.txt. Feel free to change this to whatever you like.
+In the editor, I entered the following line which creates and appends date, time and  temperatures from all your built-in sensors at a minute interval to `~/Documents/temp.txt`. Feel free to change this to whatever you like.
 
-	*       *       *       *       *       date >> ~/Desktop/temp.txt && /Applications/TemperatureMonitor.app/Contents/MacOS/tempmonitor -c -l -a >> ~/Desktop/temp.txt
+{% highlight bash %}
+*       *       *       *       *       date >> ~/Documents/temp.txt && /Applications/TemperatureMonitor.app/Contents/MacOS/tempmonitor -c -l -a >> ~/Desktop/temp.txt
+{% endhighlight %}
 
+Press `CTRL+X` followed by `Yes` then `ENTER` to save the file. Then you're done! Wait for the file to be created on your desktop.
 
-Press CTRL+X, letter 'Yes' then ENTER to save the file. Then you're done! Wait for the file to be created on your desktop.
+To filter the `DIODE` temperatures, simply enter the following command into the terminal.
 
-To filter the DIODE temperatures, simply enter the following command into the terminal.
-
-	cat ~/Desktop/temp.txt | grep 'DIODE'
+{% highlight bash %}
+cat ~/Desktop/temp.txt | grep 'DIODE'
+{% endhighlight %}
 
 The latest temperature is shown at the bottom.
 
-[TemperatureMonitor]:http://www.bresink.eu/Downloads/TemperatureMonitor.dmg
+[temp-monitor]:http://www.bresink.eu/Downloads/TemperatureMonitor.dmg

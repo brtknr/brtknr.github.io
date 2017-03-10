@@ -1,11 +1,14 @@
-# This website
+# Link to this site
 
-    http://www.brtknr.com
+[www.brtknr.com][brtknr]
 
-# Deployment on local server
+# To deploy on a local server
 
 On bash:
 
-```  
-$ jekyll serve --config _config.yml,_config-dev.yml
+```bash
+chmod +x serve.sh
+./serve.sh
 ```    
+
+[brtknr]:http://www.brtknr.com

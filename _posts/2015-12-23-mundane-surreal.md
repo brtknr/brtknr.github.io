@@ -19,12 +19,12 @@ Sometimes, the mundane assumes a surreal form and takes one by surprise. I had t
 ![laptop]
 ![bed]
 
-[bathroom]:{{ site.url }}/images/mundane/mundane1.jpg
-[toothbrush]:{{ site.url }}/images/mundane/mundane2.jpg
-[chair]:{{ site.url }}/images/mundane/mundane3.jpg
-[duvet]:{{ site.url }}/images/mundane/mundane4.jpg
-[towel]:{{ site.url }}/images/mundane/mundane5.jpg
-[box]:{{ site.url }}/images/mundane/mundane6.jpg
-[plates]:{{ site.url }}/images/mundane/mundane7.jpg
-[laptop]:{{ site.url }}/images/mundane/mundane8.jpg
-[bed]:{{ site.url }}/images/mundane/mundane9.jpg
+[bathroom]: {{site.url}}/images/mundane/mundane1.jpg
+[toothbrush]: {{site.url}}/images/mundane/mundane2.jpg
+[chair]: {{site.url}}/images/mundane/mundane3.jpg
+[duvet]: {{site.url}}/images/mundane/mundane4.jpg
+[towel]: {{site.url}}/images/mundane/mundane5.jpg
+[box]: {{site.url}}/images/mundane/mundane6.jpg
+[plates]: {{site.url}}/images/mundane/mundane7.jpg
+[laptop]: {{site.url}}/images/mundane/mundane8.jpg
+[bed]: {{site.url}}/images/mundane/mundane9.jpg

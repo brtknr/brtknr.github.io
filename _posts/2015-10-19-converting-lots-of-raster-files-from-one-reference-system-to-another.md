@@ -9,7 +9,7 @@ tags:
 - bash
 ---
 
-I had to convert lots of OSGB EPSG:27700 raster files to LonLat EPSG:4326 format and here is how I did it on my OSX terminal. I also wanted to change the format from *.asc to *.tif. Supposing you already have gdal libraries installed, just run the following code:
+I had to convert lots of OSGB EPSG:27700 raster files to LonLat EPSG:4326 format and here is how I did it on my OSX terminal. I also wanted to change the format from `*.asc` to `*.tif`. Supposing you already have `gdal` libraries installed, just run the following code:
 
 {% highlight bash %}
 input_folder = ???
@@ -23,9 +23,9 @@ for file in *.asc; do
 done
 {% endhighlight %}
 
-To utilise all CPUs, add -wo NUM_THREADS=ALL_CPUS to the gdalwarp options.
+To utilise all CPUs, add `-wo NUM_THREADS=ALL_CPUS` to the `gdalwarp` options.
 
-You can modify the for loop to rename lots of files. Here, I am rename them from *.max to *.asc.
+You can modify the for loop to rename lots of files. Here, I am rename them from `*.max` to `*.asc`.
 
 {% highlight bash %}
 for file in *.max; do

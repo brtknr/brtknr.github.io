@@ -45,12 +45,14 @@ harmony:
 markdown:    kramdown
 
 # Github complains about pygment highlighter so we are changing this to rouge instead.
-highlighter: rouge 
+# highlighter: rouge 
 
 # Permalinks
 permalink:        pretty
 
 exclude: 
+  - brtknr.sublime-project
+  - brtknr.sublime-workspace
   - CNAME
   - Gemfile
   - Rakefile
@@ -58,6 +60,7 @@ exclude:
   - .gitignore
   - .sass-cache
   - Gemfile.lock
+  - serve.sh
 
 # Sass conversion configs
 sass:
