@@ -2,6 +2,13 @@
 
 <ul class="social-media">
 
+    {% if site.harmony.social.github %}
+    <li>
+        <a title="{{ site.harmony.social.github }} on Github" 
+            href="https://github.com/{{ site.harmony.social.github }}" 
+            class="github wc-img-replace" target="_blank">Github</a>
+    </li>
+    {% endif %} 
 
     {% if site.harmony.social.twitter %}
     <li>
@@ -10,14 +17,6 @@
             class="twitter wc-img-replace" target="_blank">Twitter</a>
     </li>   
     {% endif %}
-
-    {% if site.harmony.social.github %}
-    <li>
-        <a title="{{ site.harmony.social.github }} on Github" 
-            href="https://github.com/{{ site.harmony.social.github }}" 
-            class="github wc-img-replace" target="_blank">Github</a>
-    </li>
-    {% endif %} 
 
     {% if site.harmony.social.facebook %}
     <li>
@@ -35,11 +34,11 @@
     </li>
     {% endif %}
 
-    {% if site.harmony.social.dribble %}
+    {% if site.harmony.social.linkedin %}
     <li>
-        <a title="{{ site.harmony.social.dribble }} on Dribble" 
-            href="https://dribbble.com/{{ site.harmony.social.dribble }}" 
-            class="dribble wc-img-replace" target="_blank">Dribble</a>
+        <a title="{{ site.harmony.social.linkedin }} on LinkedIn" 
+            href="https://linkedin.com/in/{{ site.harmony.social.linkedin }}" 
+            class="linkedin wc-img-replace" target="_blank">LinkedIn</a>
     </li> 
     {% endif %}
 

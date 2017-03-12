@@ -27,7 +27,7 @@ It was not until one of my supervisors noticed that something was causing strang
 
 ![sublime-regex][sublime-regex]
 
-Now you can deal with the found characters on a case by case basis. There is usually a $$\LaTeX$$ representation of the Unicode characters if you actually need them which you can Google for yourself.
+Now you can deal with the found characters on a case by case basis. There is usually a $$\rm\LaTeX$$ representation of the Unicode characters if you actually need them which you can Google for yourself.
 
 [sublimetext]:http://sublimetext.com
 [sublime-regex]:{{ site.url }}/images/sublime-regex.png

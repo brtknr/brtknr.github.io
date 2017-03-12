@@ -6,14 +6,11 @@ baseurl:
 # Site live URL
 url: http://brtknr.com
 
-# Localhost 
-# url: http://127.0.0.1:4000  
-
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Bharat Kunwar
+  name: b_ r t k n_ r
   # Little description about your site
-  description: likes to write about technology, politics and experiences.
+  description: thoughts & experiences.
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
@@ -21,23 +18,21 @@ harmony:
    Harmony is a free responsive jekyll theme by Gayan Virajith
    and Maheshika Lakmali. Sourced on Github - 
    https://github.com/gayanvirajith/harmony
-  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  basetheme: theme-base-01 # pre defined themes are darken, blue-water, redish.
   author: # Author details
     name: Bharat Kunwar
     email: b.kunwar@gmail.com
     url: http://brtknr.github.io
 
   # Google Analytics key, leave blank to ignore
-  google_analytics_key: UA-xxxx-x
+  google_analytics_key: UA-56012994-2
 
   # Profile links, leave blank to ignore
   social: 
     github: brtknr
     twitter: brtknr
     facebook: brtknr
-    gplus: 
-    dribble: 
-    pinterest: 
+    linkedin: brtknr
   # Toggle disclaimer in footer
   show_disclaimer: false
 
@@ -61,6 +56,9 @@ exclude:
   - .sass-cache
   - Gemfile.lock
   - serve.sh
+
+# Mathjax
+mathjax_url: http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 # Sass conversion configs
 sass:
