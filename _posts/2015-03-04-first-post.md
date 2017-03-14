@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'First post!'
-date: '2015-03-04T14:29:13+00:00'
+title: "First post!"
+date: 2015-03-04T14:29:13+00:00
 tags:
 - disclosure
 ---

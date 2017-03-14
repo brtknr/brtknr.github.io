@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Another Angry Voice
-date: '2015-03-11T16:07:05+00:00'
+title: "Another Angry Voice"
+date: 2015-03-11T16:07:05+00:00
 tags:
 - another angry voice
 - politics

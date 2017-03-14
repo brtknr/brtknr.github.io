@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Forum is Free: Housing and Energy'
-date: '2015-03-12T16:21:11+00:00'
+title: "Forum is Free: Housing and Energy"
+date: 2015-03-12T16:21:11+00:00
 tags:
 - housing
 - newbuild

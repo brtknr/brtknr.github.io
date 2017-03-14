@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Converting lots of raster files from one reference system to another
-date: '2015-10-19T13:07:14+00:00'
+title: "Converting lots of raster files from one reference system to another"
+date: 2015-10-19T13:07:14+00:00
 tags:
 - raster
 - gdalwarp

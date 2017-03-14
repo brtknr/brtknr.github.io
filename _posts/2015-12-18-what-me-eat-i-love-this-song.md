@@ -1,10 +1,9 @@
 ---
 layout: post
-title: 'What me eat by Macka B'
-date: '2015-12-18T15:11:00+00:00'
+title: "What me eat by Macka B"
+date: 2015-12-18T15:11:00+00:00
 tags:
 - vegan
-- what vegans eat
 ---
 
 I love this song. Vegan solidarity!

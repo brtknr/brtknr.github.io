@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Bristol People’s Question Time
-date: '2015-03-12T12:00:42+00:00'
+title: "Bristol People’s Question Time"
+date: 2015-03-12T12:00:42+00:00
 tags:
-- people's assembly
-- acorn
-- women
+- organising
+- feminism
 - bristol
-- tuc
 - immigration
 - injustice
 - austerity

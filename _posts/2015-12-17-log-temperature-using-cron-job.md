@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Use crontab to log CPU temperature on OSX!'
-date: '2015-12-17T15:16:00+00:00'
+title: "Use crontab to log CPU temperature on OSX!"
+date: 2015-12-17T15:16:00+00:00
 tags:
 - temperature
 - cron job

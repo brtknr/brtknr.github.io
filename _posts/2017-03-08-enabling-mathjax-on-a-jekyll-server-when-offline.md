@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Enabling MathJax on a Jekyll server when offline'
-date: '2017-03-08T19:00:00+00:00'
+title: "Enabling MathJax on a Jekyll server when offline"
+date: 2017-03-08T19:00:00+00:00
 tags:
 - LaTeX
 - MathJax

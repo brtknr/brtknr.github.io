@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Fastest way to access a list that is a subset of an even bigger list
-date: '2015-10-06T10:13:14+01:00'
+title: "Fastest way to access a list that is a subset of an even bigger list"
+date: 2015-10-06T10:13:14+01:00
 tags:
 - abm
 - python

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog archive
+title: "Blog archive"
 ---
 <div class="page-content wc-container">
   <h1>Blog Archive</h1>  
@@ -14,3 +14,4 @@ title: Blog archive
       {% endif %}
     <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
 {% endfor %}
+</div>

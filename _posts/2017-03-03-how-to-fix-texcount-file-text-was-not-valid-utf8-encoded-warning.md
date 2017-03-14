@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'How to fix TeXcount "!!! File/text was not valid utf8 encoded. !!!" warning'
-date: '2017-03-03T19:00:00+00:00'
+title: "How to fix TeXcount `!!! File/text was not valid utf8 encoded. !!!` warning"
+date: 2017-03-03T19:00:00+00:00
 tags:
 - LaTeX
 - warning

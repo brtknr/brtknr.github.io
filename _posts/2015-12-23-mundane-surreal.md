@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 'Mundane, Surreal'
-date: '2015-12-23T16:34:00+00:00'
+title: "Mundane, Surreal"
+date: 2015-12-23T16:34:00+00:00
 tags:
 - mundane
 - surreal
+- experience
 ---
 
 Sometimes, the mundane assumes a surreal form and takes one by surprise. I had the pleasure of this encounter this morning and I felt the need to share it.

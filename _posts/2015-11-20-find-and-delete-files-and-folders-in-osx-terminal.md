@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Find and delete files and folders in OSX terminal'
-date: '2015-11-20T10:54:00+00:00'
+title: "Find and delete files and folders in OSX terminal"
+date: 2015-11-20T10:54:00+00:00
 tags:
 - osx
 - terminal
