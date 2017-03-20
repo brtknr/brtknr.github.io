@@ -8,8 +8,6 @@ tags:
 - Ubuntu 16.04 Xenial
 ---
 
-# The problem
-
 I often log into a remote SSH terminal to use an `ipython` shell. In doing so, it is necessary for me look at figures invoked by `matplotlib` as I am exploring and analysing data. For this, I have comfortably been using a combination of `screen` and `xpra`. However, I recently hesitantly upgraded my Ubuntu distribution from 14.04 Trusty Tahr to 16.04 Xenial Xerus. And with all upgrades, I expected minor breakages. Little did I realise that it would break `xpra` and interrupt my workflow sending me down a rabbit hole internet trawling for solutions. Turns out it is a known [issue] on on launchpad but the discussion has not been active for a while and the provided solutions were incomprehensible to a lay user. It appears that simply updating `xpra` to the latest version resolves the issue.
 
 # TL;DR
@@ -49,7 +47,7 @@ Press `Ctrl+a, d` to detach from the screen session. Now run the following on a 
 DISPLAY=:10 ipython --pylab -c 'plot()'
 {% endhighlight %}
 
-# The forensic report
+# The rabbit-hole journal
 
 To replicate the problem on a vanilla installation of Ubuntu 16.04 with the default installation of `xpra` version `0.15.8+dfsg-1 amd64` at the time of writing this blog:
 
