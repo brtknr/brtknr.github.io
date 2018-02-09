@@ -11,7 +11,7 @@ I like spending my time sitting in coffee shops, learning new things, organising
 [bristol]: http://www.openstreetmap.org/relation/5746665
 [buncaer]: http://www.openstreetmap.org/way/326566712
 [6east]: http://www.openstreetmap.org/way/87256470
-[website]: http://brtknr.com
+[website]: http://brtknr.github.io
 [osm]: http://openstreetmap.org
 [massevac]: http://massevac.github.io
 [flourish]: http://www.flourishmobility.com

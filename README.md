@@ -1,6 +1,6 @@
 # Link to this site
 
-[www.brtknr.com][brtknr]
+[brtknr.github.io][brtknr]
 
 # To deploy on a local server
 
@@ -11,4 +11,4 @@ chmod +x serve.sh
 ./serve.sh
 ```    
 
-[brtknr]:http://www.brtknr.com
+[brtknr]:http://brtknr.github.io
