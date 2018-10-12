@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organising on blinking thoughts</title>
+    <link>/tags/organising/</link>
+    <description>Recent content in Organising on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 12 Mar 2015 12:00:42 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/organising/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bristol People’s Question Time</title>
+      <link>/posts/bristol-peoples-question-time/</link>
+      <pubDate>Thu, 12 Mar 2015 12:00:42 +0000</pubDate>
+      
+      <guid>/posts/bristol-peoples-question-time/</guid>
+      <description>On 10th March, Bristol People’s Assembly hosted People’s Question Time at City Road Baptist Church in Stokes Croft.
+In the panel were Rufus Hound (Comedian and Actor), Pastor Eric Aidoo (from the Church), Romaine Phoenix (Chair of The People’s Assembly), John McInally (Vice President, PSC Union) and Sauda Kyalambuka (Educator and Board member of African Voices Forum).
+Hound opened with the remark that in this age of austerity, the rich got richer.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cron Job on blinking thoughts</title>
+    <link>/tags/cron-job/</link>
+    <description>Recent content in Cron Job on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Dec 2015 15:16:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cron-job/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use crontab to log CPU temperature on OSX!</title>
+      <link>/posts/use-crontab-to-log-cpu-temperature-on-osx/</link>
+      <pubDate>Thu, 17 Dec 2015 15:16:00 +0000</pubDate>
+      
+      <guid>/posts/use-crontab-to-log-cpu-temperature-on-osx/</guid>
+      <description>I have just set up a way to automatically log temperature using OSX terminal because my computer was frequently overheating and I wanted to investigate why. Here is breakdown of how I did it.
+First of all, I installed Temperature Monitor for OSX from this URL into the application folder.
+On terminal, I entered the following command to edit crontab using nano text editor environment.
+env EDITOR=nano crontab -e In the editor, I entered the following line which creates and appends date, time and temperatures from all your built-in sensors at a minute interval to ~/Documents/temp.</description>
+    </item>
+    
+  </channel>
+</rss>

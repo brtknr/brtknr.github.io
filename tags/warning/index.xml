@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Warning on blinking thoughts</title>
+    <link>/tags/warning/</link>
+    <description>Recent content in Warning on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 03 Mar 2017 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/warning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How to fix TeXcount !!! File/text was not valid utf8 encoded. !!! warning</title>
+      <link>/posts/how-to-fix-texcount--file/text-was-not-valid-utf8-encoded.--warning/</link>
+      <pubDate>Fri, 03 Mar 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-fix-texcount--file/text-was-not-valid-utf8-encoded.--warning/</guid>
+      <description>In the process of writing my thesis which I have now handed in, I had to quite often check that I was not exceeding the word limit by running the following command:
+texcount thesis.tex -inc -nosub And each time, I would get the following warning:
+ !!! File/text was not valid utf8 encoded. !!!
+ It was not until one of my supervisors noticed that something was causing strange artefacts to appear in the compiled PDF document in the feedback stage that I realised that it was to do with the Unicode characters hiding in the literature review chapter when I was copying block citation quotes from other publications.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/permission-issues-with-xpra-0.15.x-on-ubuntu-16.04-xenial-when-tunnelling-through-ssh/</loc>
+    <lastmod>2017-03-15T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/enabling-mathjax-on-a-jekyll-server-when-offline/</loc>
+    <lastmod>2017-03-08T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/how-to-fix-texcount--file/text-was-not-valid-utf8-encoded.--warning/</loc>
+    <lastmod>2017-03-03T19:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/getting-aimsun-8.1.3-to-work-on-ubuntu-16.04/</loc>
+    <lastmod>2016-09-05T19:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/presentation-for-geomob/</loc>
+    <lastmod>2016-01-21T20:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/mundane-surreal/</loc>
+    <lastmod>2015-12-23T16:34:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/what-me-eat-by-macka-b/</loc>
+    <lastmod>2015-12-18T15:11:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/use-crontab-to-log-cpu-temperature-on-osx/</loc>
+    <lastmod>2015-12-17T15:16:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/find-and-delete-files-and-folders-in-osx-terminal/</loc>
+    <lastmod>2015-11-20T10:54:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/converting-lots-of-raster-files-from-one-reference-system-to-another/</loc>
+    <lastmod>2015-10-19T13:07:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/fastest-way-to-access-a-list-that-is-a-subset-of-an-even-bigger-list/</loc>
+    <lastmod>2015-10-06T10:13:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/forum-is-free-housing-and-energy/</loc>
+    <lastmod>2015-03-12T16:21:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/bristol-peoples-question-time/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/another-angry-voice/</loc>
+    <lastmod>2015-03-11T16:07:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/how-well-does-population-distribution-predictevacuation-time/</loc>
+    <lastmod>2015-03-10T12:50:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/first-post/</loc>
+    <lastmod>2015-03-04T14:29:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/abm/</loc>
+    <lastmod>2015-10-06T10:13:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/agent-based-modelling/</loc>
+    <lastmod>2015-10-06T10:13:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/aimsun/</loc>
+    <lastmod>2016-09-05T19:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/another-angry-voice/</loc>
+    <lastmod>2015-03-11T16:07:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/austerity/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bash/</loc>
+    <lastmod>2015-10-19T13:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/bristol/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/compatibility/</loc>
+    <lastmod>2016-09-05T19:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cpu-performance/</loc>
+    <lastmod>2015-10-06T10:13:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cron-job/</loc>
+    <lastmod>2015-12-17T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/crontab/</loc>
+    <lastmod>2015-12-17T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/cuts/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/delete/</loc>
+    <lastmod>2015-11-20T10:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/disclosure/</loc>
+    <lastmod>2015-03-04T14:29:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/evacuation-time-estimate/</loc>
+    <lastmod>2015-03-10T12:50:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/experience/</loc>
+    <lastmod>2015-12-23T16:34:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/feminism/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/files/</loc>
+    <lastmod>2015-11-20T10:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/find/</loc>
+    <lastmod>2015-11-20T10:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/folders/</loc>
+    <lastmod>2015-11-20T10:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/forumisfree/</loc>
+    <lastmod>2015-03-12T16:21:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gdal/</loc>
+    <lastmod>2015-10-19T13:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/gdalwarp/</loc>
+    <lastmod>2015-10-19T13:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/geomob/</loc>
+    <lastmod>2016-01-21T20:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/green-party-uk/</loc>
+    <lastmod>2015-03-11T16:07:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/housing/</loc>
+    <lastmod>2015-03-12T16:21:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/immigration/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/injustice/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/jekyll/</loc>
+    <lastmod>2017-03-08T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/latex/</loc>
+    <lastmod>2017-03-08T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mathjax/</loc>
+    <lastmod>2017-03-08T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/modulus/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/mundane/</loc>
+    <lastmod>2015-12-23T16:34:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/network/</loc>
+    <lastmod>2015-03-10T12:50:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/newbuild/</loc>
+    <lastmod>2015-03-12T16:21:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nhs/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/offline/</loc>
+    <lastmod>2017-03-08T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/organising/</loc>
+    <lastmod>2015-03-12T12:00:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/osx/</loc>
+    <lastmod>2015-12-17T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/podemos/</loc>
+    <lastmod>2015-03-11T16:07:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/politics/</loc>
+    <lastmod>2015-03-11T16:07:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/presentation/</loc>
+    <lastmod>2016-01-21T20:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/raster/</loc>
+    <lastmod>2015-10-19T13:07:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/social-media/</loc>
+    <lastmod>2015-03-11T16:07:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ssh/</loc>
+    <lastmod>2017-03-15T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/surreal/</loc>
+    <lastmod>2015-12-23T16:34:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/syriza/</loc>
+    <lastmod>2015-03-11T16:07:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2015-10-06T10:13:14+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/temperature/</loc>
+    <lastmod>2015-12-17T15:16:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/terminal/</loc>
+    <lastmod>2015-11-20T10:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/texcount/</loc>
+    <lastmod>2017-03-03T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tss/</loc>
+    <lastmod>2016-09-05T19:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ubuntu/</loc>
+    <lastmod>2016-09-05T19:54:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ubuntu-16.04-xenial/</loc>
+    <lastmod>2017-03-15T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/unicode/</loc>
+    <lastmod>2017-03-03T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/uniform-distribution/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/utf8/</loc>
+    <lastmod>2017-03-03T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/vegan/</loc>
+    <lastmod>2015-12-18T15:11:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/warning/</loc>
+    <lastmod>2017-03-03T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/xpra/</loc>
+    <lastmod>2017-03-15T19:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

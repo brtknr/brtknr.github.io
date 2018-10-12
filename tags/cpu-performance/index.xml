@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpu Performance on blinking thoughts</title>
+    <link>/tags/cpu-performance/</link>
+    <description>Recent content in Cpu Performance on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 06 Oct 2015 10:13:14 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/cpu-performance/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fastest way to access a list that is a subset of an even bigger list</title>
+      <link>/posts/fastest-way-to-access-a-list-that-is-a-subset-of-an-even-bigger-list/</link>
+      <pubDate>Tue, 06 Oct 2015 10:13:14 +0100</pubDate>
+      
+      <guid>/posts/fastest-way-to-access-a-list-that-is-a-subset-of-an-even-bigger-list/</guid>
+      <description>Say I have a list of objects called agents with 100,000 objects.
+I have a second list called agents_per_step which refers to 39,393 objects in agents.
+Say I need to access the agents in the reference list. What is the fastest way to access these objects?
+I ran three tests:
+ Loop through a list directly containing agent objects Loop through a list of indices referring to agents objects on a list Loop through a list of indices referring to agents objects on a dict  I present the results below:</description>
+    </item>
+    
+  </channel>
+</rss>

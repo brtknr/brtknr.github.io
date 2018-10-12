@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Another Angry Voice on blinking thoughts</title>
+    <link>/tags/another-angry-voice/</link>
+    <description>Recent content in Another Angry Voice on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Mar 2015 16:07:05 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/another-angry-voice/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Another Angry Voice</title>
+      <link>/posts/another-angry-voice/</link>
+      <pubDate>Wed, 11 Mar 2015 16:07:05 +0000</pubDate>
+      
+      <guid>/posts/another-angry-voice/</guid>
+      <description>Another Angry Voice (AAV) aka Tom paid a visit to Bristol on 5th March.
+AAV introduced himself as a regular guy and emphasized that if he can do a political blog then anyone can.
+An example of an infographic by AAV.
+AAV brings up the information war that left has been quite bad at communicating left wing ideas. Terms like Socialist, Anarchist, Communist, Green etc. are all loaded with distorted emotional meanings that people do not want to be associated with.</description>
+    </item>
+    
+  </channel>
+</rss>

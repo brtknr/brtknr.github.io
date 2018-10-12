@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uniform Distribution on blinking thoughts</title>
+    <link>/tags/uniform-distribution/</link>
+    <description>Recent content in Uniform Distribution on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/uniform-distribution/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Does modulus of sum of a uniform distribution also produce a uniform distribution?</title>
+      <link>/posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/</guid>
+      <description>I have been working on an Ethereum lottery Dapp with folks attending a meetup hosted by Strange Labs (Gloucester Road, Bristol) and we faced a problem where we realised that Solidity does not have a built in random number generator and therefore picking a winner turned out to be more difficult that anyone imagined.
+In order to make the system truly trustless, one of the ideas involved each participant generating their own random number and submitting it to the contract when they buy their lottery tickets.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Network on blinking thoughts</title>
+    <link>/tags/network/</link>
+    <description>Recent content in Network on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 10 Mar 2015 12:50:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How well does population distribution predict evacuation time?</title>
+      <link>/posts/how-well-does-population-distribution-predictevacuation-time/</link>
+      <pubDate>Tue, 10 Mar 2015 12:50:00 +0000</pubDate>
+      
+      <guid>/posts/how-well-does-population-distribution-predictevacuation-time/</guid>
+      <description>Previously, we tried to predict 90th percentile evacuation time $T_{90}$ determined from ABM simulation using 90th percentile free flow clearance time $T90f$. Bigger the city, greater we can expect $T90f$ to be since it would take longer to traverse. Plotting $T90f$ vs $T90$ produces the figure below. $T90f$ under predicts $T90$ with a poor fit ($R=0.31$) but it is clear that $T90$ is never less than $T90f$!
+Since that did not work out too well, I attempt to predict $T90$ using the knowledge of how the population is distributed distance $D$ from the exit.</description>
+    </item>
+    
+  </channel>
+</rss>

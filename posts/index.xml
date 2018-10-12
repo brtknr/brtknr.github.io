@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on blinking thoughts</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Does modulus of sum of a uniform distribution also produce a uniform distribution?</title>
+      <link>/posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/</guid>
+      <description>I have been working on an Ethereum lottery Dapp with folks attending a meetup hosted by Strange Labs (Gloucester Road, Bristol) and we faced a problem where we realised that Solidity does not have a built in random number generator and therefore picking a winner turned out to be more difficult that anyone imagined.
+In order to make the system truly trustless, one of the ideas involved each participant generating their own random number and submitting it to the contract when they buy their lottery tickets.</description>
+    </item>
+    
+    <item>
+      <title>Permission issues with xpra 0.15.x on Ubuntu 16.04 Xenial when tunnelling through SSH</title>
+      <link>/posts/permission-issues-with-xpra-0.15.x-on-ubuntu-16.04-xenial-when-tunnelling-through-ssh/</link>
+      <pubDate>Wed, 15 Mar 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/posts/permission-issues-with-xpra-0.15.x-on-ubuntu-16.04-xenial-when-tunnelling-through-ssh/</guid>
+      <description>I often log into a remote SSH terminal to use an ipython shell. In doing so, it is necessary for me look at figures invoked by matplotlib as I am exploring and analysing data. For this, I have comfortably been using a combination of screen and xpra. However, I recently hesitantly upgraded my Ubuntu distribution from 14.04 Trusty Tahr to 16.04 Xenial Xerus. And with all upgrades, I expected minor breakages.</description>
+    </item>
+    
+    <item>
+      <title>Enabling MathJax on a Jekyll server when offline</title>
+      <link>/posts/enabling-mathjax-on-a-jekyll-server-when-offline/</link>
+      <pubDate>Wed, 08 Mar 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/posts/enabling-mathjax-on-a-jekyll-server-when-offline/</guid>
+      <description>I like MathJax. It does a great job displaying equations on web pages written using $\rm\LaTeX$. However, I recently wrote a Jekyll blog post which uses MathJax and tried to view it on a locally deployed server while commuting on a train journey with no Internet connection. Then, I realised that it did not render the equations at all because it relied on sending AJAX requests to a remote server. Something had to be done and this is how I went about fixing it.</description>
+    </item>
+    
+    <item>
+      <title>How to fix TeXcount !!! File/text was not valid utf8 encoded. !!! warning</title>
+      <link>/posts/how-to-fix-texcount--file/text-was-not-valid-utf8-encoded.--warning/</link>
+      <pubDate>Fri, 03 Mar 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-fix-texcount--file/text-was-not-valid-utf8-encoded.--warning/</guid>
+      <description>In the process of writing my thesis which I have now handed in, I had to quite often check that I was not exceeding the word limit by running the following command:
+texcount thesis.tex -inc -nosub And each time, I would get the following warning:
+ !!! File/text was not valid utf8 encoded. !!!
+ It was not until one of my supervisors noticed that something was causing strange artefacts to appear in the compiled PDF document in the feedback stage that I realised that it was to do with the Unicode characters hiding in the literature review chapter when I was copying block citation quotes from other publications.</description>
+    </item>
+    
+    <item>
+      <title>Getting Aimsun 8.1.3 to work on Ubuntu 16.04</title>
+      <link>/posts/getting-aimsun-8.1.3-to-work-on-ubuntu-16.04/</link>
+      <pubDate>Mon, 05 Sep 2016 19:54:00 +0000</pubDate>
+      
+      <guid>/posts/getting-aimsun-8.1.3-to-work-on-ubuntu-16.04/</guid>
+      <description>After installing TSS&amp;rsquo;s Aimsun 8.1.3 on Ubuntu 16.04 (x64 build) on my machine, I tried to launch the program. However, the icon would appear briefly and close without any indication of what the problem was. The problem became obvious when starting up Aimsun through terminal using the following command:
+/opt/Aimsun_8_3_0/Aimsun Instead of starting normally, I got the following message instead:
+ Aimsun: error while loading shared libraries: libvpx.so.1: cannot open shared object file: No such file or directory</description>
+    </item>
+    
+    <item>
+      <title>Presentation for Geomob</title>
+      <link>/posts/presentation-for-geomob/</link>
+      <pubDate>Thu, 21 Jan 2016 20:00:00 +0000</pubDate>
+      
+      <guid>/posts/presentation-for-geomob/</guid>
+      <description>My presentation for Geomob in London:
+ </description>
+    </item>
+    
+    <item>
+      <title>Mundane, Surreal</title>
+      <link>/posts/mundane-surreal/</link>
+      <pubDate>Wed, 23 Dec 2015 16:34:00 +0000</pubDate>
+      
+      <guid>/posts/mundane-surreal/</guid>
+      <description>Sometimes, the mundane assumes a surreal form and takes one by surprise. I had the pleasure of this encounter this morning and I felt the need to share it.</description>
+    </item>
+    
+    <item>
+      <title>What me eat by Macka B</title>
+      <link>/posts/what-me-eat-by-macka-b/</link>
+      <pubDate>Fri, 18 Dec 2015 15:11:00 +0000</pubDate>
+      
+      <guid>/posts/what-me-eat-by-macka-b/</guid>
+      <description>I love this song. Vegan solidarity!
+ Here is the lyrics borrowed from this site:
+[Intro] Selamta (Greetings in Amharic) Ital (natural) we Ital and Vegan we Vegan I and I (we) eat from the earth and leave the animals to give birth No deaders (dead flesh) No fur No feathers When I tell people I don&amp;#39;t eat meat, fish or dairy They look at me strangely They don&amp;#39;t realise I eat a very wide variety Listen to Macka.</description>
+    </item>
+    
+    <item>
+      <title>Use crontab to log CPU temperature on OSX!</title>
+      <link>/posts/use-crontab-to-log-cpu-temperature-on-osx/</link>
+      <pubDate>Thu, 17 Dec 2015 15:16:00 +0000</pubDate>
+      
+      <guid>/posts/use-crontab-to-log-cpu-temperature-on-osx/</guid>
+      <description>I have just set up a way to automatically log temperature using OSX terminal because my computer was frequently overheating and I wanted to investigate why. Here is breakdown of how I did it.
+First of all, I installed Temperature Monitor for OSX from this URL into the application folder.
+On terminal, I entered the following command to edit crontab using nano text editor environment.
+env EDITOR=nano crontab -e In the editor, I entered the following line which creates and appends date, time and temperatures from all your built-in sensors at a minute interval to ~/Documents/temp.</description>
+    </item>
+    
+    <item>
+      <title>Find and delete files and folders in OSX terminal</title>
+      <link>/posts/find-and-delete-files-and-folders-in-osx-terminal/</link>
+      <pubDate>Fri, 20 Nov 2015 10:54:00 +0000</pubDate>
+      
+      <guid>/posts/find-and-delete-files-and-folders-in-osx-terminal/</guid>
+      <description>Finding and deleting files and folders in OSX is simple. Open your terminal. In order to just find your files/folders (non destructive):
+For files:
+find . -name &amp;#34;Icon?&amp;#34; -type f For folders:
+find . -name &amp;#34;Icon?&amp;#34; -type d For files and folders
+find . -name &amp;#34;Icon?&amp;#34; -type f -o -name &amp;#34;Icon?&amp;#34; -type d In order to delete them, just add -delete operator to the end (DESTRUCTIVE):
+For files:
+find . -name &amp;#34;Icon?</description>
+    </item>
+    
+    <item>
+      <title>Converting lots of raster files from one reference system to another</title>
+      <link>/posts/converting-lots-of-raster-files-from-one-reference-system-to-another/</link>
+      <pubDate>Mon, 19 Oct 2015 13:07:14 +0000</pubDate>
+      
+      <guid>/posts/converting-lots-of-raster-files-from-one-reference-system-to-another/</guid>
+      <description>I had to convert lots of OSGB EPSG:27700 raster files to LonLat EPSG:4326 format and here is how I did it on my OSX terminal. I also wanted to change the format from *.asc to *.tif. Supposing you already have gdal libraries installed, just run the following code:
+input_folder = ??? output_folder=../LonLat cd input_folder mkdir output_folder for file in *.asc; do gdalwarp -s_srs &amp;#34;+proj=tmerc +lat_0=49 +lon_0=-2 +k=0.9996012717 +x_0=400000 +y_0=-100000 +ellps=airy +towgs84=375,-111,431,0,0,0,0 +units=m +no_defs&amp;#34; -t_srs &amp;#34;+proj=longlat +datum=WGS84 +no_defs&amp;#34; &amp;#34;$file&amp;#34; &amp;#34;$folder/`basename $file.</description>
+    </item>
+    
+    <item>
+      <title>Fastest way to access a list that is a subset of an even bigger list</title>
+      <link>/posts/fastest-way-to-access-a-list-that-is-a-subset-of-an-even-bigger-list/</link>
+      <pubDate>Tue, 06 Oct 2015 10:13:14 +0100</pubDate>
+      
+      <guid>/posts/fastest-way-to-access-a-list-that-is-a-subset-of-an-even-bigger-list/</guid>
+      <description>Say I have a list of objects called agents with 100,000 objects.
+I have a second list called agents_per_step which refers to 39,393 objects in agents.
+Say I need to access the agents in the reference list. What is the fastest way to access these objects?
+I ran three tests:
+ Loop through a list directly containing agent objects Loop through a list of indices referring to agents objects on a list Loop through a list of indices referring to agents objects on a dict  I present the results below:</description>
+    </item>
+    
+    <item>
+      <title>Forum is Free: Housing and Energy</title>
+      <link>/posts/forum-is-free-housing-and-energy/</link>
+      <pubDate>Thu, 12 Mar 2015 16:21:11 +0000</pubDate>
+      
+      <guid>/posts/forum-is-free-housing-and-energy/</guid>
+      <description>On 11 May, Bristol Green Party hosted a forum to discuss housing and energy at The Station in central Bristol.
+The meeting was chaired by Darren Hall, Green Party candidate for Bristol West and Director of Bristol Green Week and on the panel were:
+ Oona Goldsworthy, Chief Executive of United Communities Mike Roberts, Director of HAB housing owned by Kevin McCloud Shankari Raj Edgar, Director of Nudge Group Keith Cowling, Chair of Bristol Community Land Trust and Director of Community Buildings Federation  Impending affordable housing crisis (source).</description>
+    </item>
+    
+    <item>
+      <title>Bristol People’s Question Time</title>
+      <link>/posts/bristol-peoples-question-time/</link>
+      <pubDate>Thu, 12 Mar 2015 12:00:42 +0000</pubDate>
+      
+      <guid>/posts/bristol-peoples-question-time/</guid>
+      <description>On 10th March, Bristol People’s Assembly hosted People’s Question Time at City Road Baptist Church in Stokes Croft.
+In the panel were Rufus Hound (Comedian and Actor), Pastor Eric Aidoo (from the Church), Romaine Phoenix (Chair of The People’s Assembly), John McInally (Vice President, PSC Union) and Sauda Kyalambuka (Educator and Board member of African Voices Forum).
+Hound opened with the remark that in this age of austerity, the rich got richer.</description>
+    </item>
+    
+    <item>
+      <title>Another Angry Voice</title>
+      <link>/posts/another-angry-voice/</link>
+      <pubDate>Wed, 11 Mar 2015 16:07:05 +0000</pubDate>
+      
+      <guid>/posts/another-angry-voice/</guid>
+      <description>Another Angry Voice (AAV) aka Tom paid a visit to Bristol on 5th March.
+AAV introduced himself as a regular guy and emphasized that if he can do a political blog then anyone can.
+An example of an infographic by AAV.
+AAV brings up the information war that left has been quite bad at communicating left wing ideas. Terms like Socialist, Anarchist, Communist, Green etc. are all loaded with distorted emotional meanings that people do not want to be associated with.</description>
+    </item>
+    
+    <item>
+      <title>How well does population distribution predict evacuation time?</title>
+      <link>/posts/how-well-does-population-distribution-predictevacuation-time/</link>
+      <pubDate>Tue, 10 Mar 2015 12:50:00 +0000</pubDate>
+      
+      <guid>/posts/how-well-does-population-distribution-predictevacuation-time/</guid>
+      <description>Previously, we tried to predict 90th percentile evacuation time $T_{90}$ determined from ABM simulation using 90th percentile free flow clearance time $T90f$. Bigger the city, greater we can expect $T90f$ to be since it would take longer to traverse. Plotting $T90f$ vs $T90$ produces the figure below. $T90f$ under predicts $T90$ with a poor fit ($R=0.31$) but it is clear that $T90$ is never less than $T90f$!
+Since that did not work out too well, I attempt to predict $T90$ using the knowledge of how the population is distributed distance $D$ from the exit.</description>
+    </item>
+    
+    <item>
+      <title>First post!</title>
+      <link>/posts/first-post/</link>
+      <pubDate>Wed, 04 Mar 2015 14:29:13 +0000</pubDate>
+      
+      <guid>/posts/first-post/</guid>
+      <description>I have just updated the website and finally acquired brtknr.github.io for good which is now hosted on Github pages too which is an excellent free of charge service if I may say so. It has just the right amount of manual tweaking to make you think you have control over how the information is presented on the website but sufficient structures already in place, for example, using the Jekyll static pages generator to automate most of the unpleasantries of reinventing the wheel of coding another site from scratch.</description>
+    </item>
+    
+  </channel>
+</rss>

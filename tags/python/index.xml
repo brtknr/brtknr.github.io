@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on blinking thoughts</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Does modulus of sum of a uniform distribution also produce a uniform distribution?</title>
+      <link>/posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/</guid>
+      <description>I have been working on an Ethereum lottery Dapp with folks attending a meetup hosted by Strange Labs (Gloucester Road, Bristol) and we faced a problem where we realised that Solidity does not have a built in random number generator and therefore picking a winner turned out to be more difficult that anyone imagined.
+In order to make the system truly trustless, one of the ideas involved each participant generating their own random number and submitting it to the contract when they buy their lottery tickets.</description>
+    </item>
+    
+    <item>
+      <title>Fastest way to access a list that is a subset of an even bigger list</title>
+      <link>/posts/fastest-way-to-access-a-list-that-is-a-subset-of-an-even-bigger-list/</link>
+      <pubDate>Tue, 06 Oct 2015 10:13:14 +0100</pubDate>
+      
+      <guid>/posts/fastest-way-to-access-a-list-that-is-a-subset-of-an-even-bigger-list/</guid>
+      <description>Say I have a list of objects called agents with 100,000 objects.
+I have a second list called agents_per_step which refers to 39,393 objects in agents.
+Say I need to access the agents in the reference list. What is the fastest way to access these objects?
+I ran three tests:
+ Loop through a list directly containing agent objects Loop through a list of indices referring to agents objects on a list Loop through a list of indices referring to agents objects on a dict  I present the results below:</description>
+    </item>
+    
+  </channel>
+</rss>

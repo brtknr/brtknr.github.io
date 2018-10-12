@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Folders on blinking thoughts</title>
+    <link>/tags/folders/</link>
+    <description>Recent content in Folders on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 20 Nov 2015 10:54:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/folders/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Find and delete files and folders in OSX terminal</title>
+      <link>/posts/find-and-delete-files-and-folders-in-osx-terminal/</link>
+      <pubDate>Fri, 20 Nov 2015 10:54:00 +0000</pubDate>
+      
+      <guid>/posts/find-and-delete-files-and-folders-in-osx-terminal/</guid>
+      <description>Finding and deleting files and folders in OSX is simple. Open your terminal. In order to just find your files/folders (non destructive):
+For files:
+find . -name &amp;#34;Icon?&amp;#34; -type f For folders:
+find . -name &amp;#34;Icon?&amp;#34; -type d For files and folders
+find . -name &amp;#34;Icon?&amp;#34; -type f -o -name &amp;#34;Icon?&amp;#34; -type d In order to delete them, just add -delete operator to the end (DESTRUCTIVE):
+For files:
+find . -name &amp;#34;Icon?</description>
+    </item>
+    
+  </channel>
+</rss>

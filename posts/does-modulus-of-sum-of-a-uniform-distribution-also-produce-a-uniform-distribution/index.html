@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="b_ r t k n_ r">
+    <meta name="description" content="artificial intelligence, distributed consensus, agent based modelling, network science and vegan options.">
+    <meta name="keywords" content="artificial intelligence, distributed consensus, agent based modelling, network science and vegan options.">
+
+    <base href="">
+    <title>
+  Does modulus of sum of a uniform distribution also produce a uniform distribution? · blinking thoughts
+</title>
+
+    <link rel="canonical" href="../../posts/does-modulus-of-sum-of-a-uniform-distribution-also-produce-a-uniform-distribution/">
+
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
+    <link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+    <link rel="stylesheet" href="../../css/style.min.css">
+
+    <link rel="icon" type="image/png" href="../../images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="../../images/favicon-16x16.png" sizes="16x16">
+
+    
+
+    <script type="text/javascript" async
+      src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML">
+      MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$','$']],
+          displayMath: [['$$','$$']],
+          processEscapes: true,
+          processEnvironments: true,
+          skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+          TeX: { equationNumbers: { autoNumber: "AMS" },
+               extensions: ["AMSmath.js", "AMSsymbols.js"] }
+        }
+      });
+
+      MathJax.Hub.Queue(function() {
+        
+        
+        
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i = 0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+      });
+    </script>
+
+
+
+    <meta name="generator" content="Hugo 0.40.3" />
+  </head>
+
+  <body>
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="../../">
+      b_ r t k n_ r
+    </a>
+    <ul class="navigation-list float-right">
+      
+      <li class="navigation-item">
+        <a class="navigation-link" href="../../about/">About</a>
+      </li>
+      
+    </ul>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+  <article>
+    <header>
+      <h1 class="title">Does modulus of sum of a uniform distribution also produce a uniform distribution?</h1>
+      <h2 class="date">January 31, 2018</h2>
+    </header>
+
+    
+
+<p>I have been working on an <a href="https://github.com/strange-labs-uk/ethereum-lottery">Ethereum lottery</a> Dapp with folks attending a <a href="https://www.meetup.com/Hacking-on-Ethereums-Solidity/">meetup</a> hosted by Strange Labs (Gloucester Road, Bristol) and we faced a problem where we realised that Solidity does not have a built in random number generator and therefore picking a winner turned out to be more difficult that anyone imagined.</p>
+
+<p>In order to make the system truly trustless, one of the ideas involved each participant generating their own random number and submitting it to the contract when they buy their lottery tickets. However I was concerned that taking a sum of of these numbers would result in a normal distribution allowing the early and late participants to have a built in disadvantage.</p>
+
+<p>To solve this, taking a modulus of the sum seemed like a way around the problem however I wanted to make sure that this was really the case. Therefore, <a href="https://github.com/brtknr/UniformModulus">this notebook</a> is an exploration of whether the list of modulus really does produce a uniform distribution over lots of simulated scenarios.</p>
+
+<h1 id="import-relevant-modules">Import relevant modules</h1>
+
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#fff;font-weight:bold">import</span> numpy <span style="color:#fff;font-weight:bold">as</span> np
+<span style="color:#fff;font-weight:bold">import</span> matplotlib.pyplot <span style="color:#fff;font-weight:bold">as</span> plt
+<span style="color:#fff;font-weight:bold">import</span> scipy.stats <span style="color:#fff;font-weight:bold">as</span> ss</code></pre></div>
+
+<h1 id="helper-functions">Helper functions</h1>
+
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#fff;font-weight:bold">def</span> test(num_of_vars_in_dist, random_num_max_val, num_of_random_nums, num_of_iterations):
+    list_of_sums = <span style="color:#fff;font-weight:bold">list</span>()
+    list_of_indices = <span style="color:#fff;font-weight:bold">list</span>()
+
+    <span style="color:#fff;font-weight:bold">for</span> i in <span style="color:#fff;font-weight:bold">range</span>(num_of_iterations):
+        list_of_randoms = np.random.randint(
+            random_num_max_val,
+            size=num_of_random_nums
+        )
+        
+        sum_of_randoms = list_of_randoms.<span style="color:#fff;font-weight:bold">sum</span>()
+        list_of_sums.append(sum_of_randoms)
+        index = sum_of_randoms % num_of_vars_in_dist
+        list_of_indices.append(index)
+
+    <span style="color:#fff;font-weight:bold">return</span> <span style="color:#fff;font-weight:bold">dict</span>(
+        list_of_sums=list_of_sums,
+        list_of_indices=list_of_indices,
+    )
+
+<span style="color:#fff;font-weight:bold">def</span> hist(result, key, bins=<span style="color:#ff0;font-weight:bold">100</span>):
+    plt.ion()
+    plt.figure()
+    plt.hist(result[key], bins=bins)
+    plt.xlabel(key)
+    plt.ylabel(<span style="color:#0ff;font-weight:bold">&#39;density&#39;</span>)</code></pre></div>
+
+<h1 id="run-the-test">Run the test</h1>
+
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">result = test(
+    num_of_vars_in_dist=<span style="color:#ff0;font-weight:bold">100</span>,
+    random_num_max_val=<span style="color:#ff0;font-weight:bold">1000</span>,
+    num_of_random_nums=<span style="color:#ff0;font-weight:bold">100</span>,
+    num_of_iterations=<span style="color:#ff0;font-weight:bold">10</span>**<span style="color:#ff0;font-weight:bold">5</span>
+    )</code></pre></div>
+
+<h1 id="inspect-the-distribution-of-list-of-sums">Inspect the distribution of <code>list_of_sums</code></h1>
+
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">hist(result,<span style="color:#0ff;font-weight:bold">&#39;list_of_sums&#39;</span>)</code></pre></div>
+
+<p><img src="../../images/uniform.modulus/Notebook_9_0.png" alt="png" /></p>
+
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">ss.kstest(result[<span style="color:#0ff;font-weight:bold">&#39;list_of_sums&#39;</span>], <span style="color:#0ff;font-weight:bold">&#39;norm&#39;</span>, args=(), alternative=<span style="color:#0ff;font-weight:bold">&#39;two-sided&#39;</span>, mode=<span style="color:#0ff;font-weight:bold">&#39;approx&#39;</span>)</code></pre></div>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">KstestResult(statistic=1.0, pvalue=0.0)</pre></div>
+<p>It looks like the sum of random produce a two-sided distribution, the kind of behaviour we expect when we take a sum of all the numbers produced when we roll multiple dice where the mean of number of faces has the highest likelihood of manifesting.</p>
+
+<h1 id="now-lets-look-at-the-values-of-var-dist">Now lets look at the values of <code>var_dist</code></h1>
+
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">hist(result,<span style="color:#0ff;font-weight:bold">&#39;list_of_indices&#39;</span>)</code></pre></div>
+
+<p><img src="../../images/uniform.modulus/Notebook_13_0.png" alt="png" /></p>
+
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python">ss.kstest(result[<span style="color:#0ff;font-weight:bold">&#39;list_of_indices&#39;</span>], <span style="color:#0ff;font-weight:bold">&#39;uniform&#39;</span>, args=(), alternative=<span style="color:#0ff;font-weight:bold">&#39;two-sided&#39;</span>, mode=<span style="color:#0ff;font-weight:bold">&#39;approx&#39;</span>)</code></pre></div>
+<div class="highlight"><pre style="color:#e5e5e5;background-color:#000;-moz-tab-size:4;-o-tab-size:4;tab-size:4">KstestResult(statistic=0.99026000000000003, pvalue=0.0)</pre></div>
+<p>It looks like the list of indices are more or less uniformly distributed and the statistical test confirms our visual observation. Therefore, we can conclude that numbers generated by taking a modulus of sum of randomly generated numbers is a reliable pseudo-random number generator.</p>
+
+  </article>
+</section>
+
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    © 2018 · Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/luizdepra/hugo-coder/">Coder</a>.
+  </section>
+</footer>
+
+    </main>
+
+    
+
+  </body>
+
+</html>

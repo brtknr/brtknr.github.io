@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latex on blinking thoughts</title>
+    <link>/tags/latex/</link>
+    <description>Recent content in Latex on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Mar 2017 19:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/latex/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Enabling MathJax on a Jekyll server when offline</title>
+      <link>/posts/enabling-mathjax-on-a-jekyll-server-when-offline/</link>
+      <pubDate>Wed, 08 Mar 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/posts/enabling-mathjax-on-a-jekyll-server-when-offline/</guid>
+      <description>I like MathJax. It does a great job displaying equations on web pages written using $\rm\LaTeX$. However, I recently wrote a Jekyll blog post which uses MathJax and tried to view it on a locally deployed server while commuting on a train journey with no Internet connection. Then, I realised that it did not render the equations at all because it relied on sending AJAX requests to a remote server. Something had to be done and this is how I went about fixing it.</description>
+    </item>
+    
+    <item>
+      <title>How to fix TeXcount !!! File/text was not valid utf8 encoded. !!! warning</title>
+      <link>/posts/how-to-fix-texcount--file/text-was-not-valid-utf8-encoded.--warning/</link>
+      <pubDate>Fri, 03 Mar 2017 19:00:00 +0000</pubDate>
+      
+      <guid>/posts/how-to-fix-texcount--file/text-was-not-valid-utf8-encoded.--warning/</guid>
+      <description>In the process of writing my thesis which I have now handed in, I had to quite often check that I was not exceeding the word limit by running the following command:
+texcount thesis.tex -inc -nosub And each time, I would get the following warning:
+ !!! File/text was not valid utf8 encoded. !!!
+ It was not until one of my supervisors noticed that something was causing strange artefacts to appear in the compiled PDF document in the feedback stage that I realised that it was to do with the Unicode characters hiding in the literature review chapter when I was copying block citation quotes from other publications.</description>
+    </item>
+    
+  </channel>
+</rss>

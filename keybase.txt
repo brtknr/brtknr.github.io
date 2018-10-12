@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/brtknr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://brtknr.github.io
+  * I am brtknr (https://keybase.io/brtknr) on keybase.
+  * I have a public key with fingerprint CF09 83BC 4553 BF18 8649  7BE2 D0E3 F1C0 E8D5 5161
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101c99edc41949d84860e8d8b677311bb4334c0f672e4f6da6f2a03508f554b60d40a",
+      "fingerprint": "cf0983bc4553bf1886497be2d0e3f1c0e8d55161",
+      "host": "keybase.io",
+      "key_id": "d0e3f1c0e8d55161",
+      "kid": "0101c99edc41949d84860e8d8b677311bb4334c0f672e4f6da6f2a03508f554b60d40a",
+      "uid": "4798630d7593145b7e3dd5c2a43f9519",
+      "username": "brtknr"
+    },
+    "merkle_root": {
+      "ctime": 1526030711,
+      "hash_meta": "e71abd75c8aa271d2f8d305cd07067a50b975ec43ec99733e1a28de151d40378",
+      "seqno": 2630846
+    },
+    "revoke": {
+      "sig_ids": [
+        "d64e2dd4f1b7ab0927790aa25cf114e4984d3e11ef379c2ace8face55a11a6710f"
+      ]
+    },
+    "service": {
+      "hostname": "brtknr.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1526030711,
+  "expire_in": 157680000,
+  "prev": "1cd256d3d1a7bf3660554c8ec13e1470a2fd58f9f36c661eb0033cb44d083f0e",
+  "seqno": 22,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMKvAnicrVNbaBxVGN40tokhxV4UaxFSR9qmEMI5c66zPggWfSmptfYlsWU512S6
+m511ZnaTEBcKW6VWVOiLNyxItC9KSypqqgUlhvggXvAlUkoi3oKpRdqalYgQz0QF
+hT46D2eYOd//fd///efMbGzNdbT0v9D/3JOvftXd8un0aDU3sCxGxj0Z6TEvP+4V
+zdrLlLRJ0kIx1F7eAxBAFQRGKwwDHGiOOQWGay4pYwhCKTFCWAFLmW+wpVpQ6wuA
+COCWECwp0BgIr8ezYXnQxJU4LKeOVlkQcCQVJgRJCzmnOGDS+BoYZKHKFAiBFLrC
+oSjJKpw5KRLTG0bun/sorNm7Cf5/9l1do8Ms4BQBzUiAICaSGaQ1Ub7AyAYEBhkw
+MXFZDBuHlnFaLMdevccbNnGxZApxFKVZtCoNMwAkPgUIMAhdeyIZKgybVLg6w6CQ
+TkNxIXwGtW+5RoAoDRigTBAgA0aMwsi41hhCBgqfawMJdGYR485FYh4vR17ed2Y5
+ps5BbGpR0WTiSTjoQku8/GOepthlrbGFkgkJAp+xADhNoiyE2OCAY+3YobGIBa5L
+Zbh1CyECQkEZBNY7Us/E4lqo1sizKf2n+97BMB2qyr/mVYmjNFJRye0OpWklyWfZ
+pGOVDD5iZOFvooIMy9qdE1dRM3ESRmWXlUPeJDYzWgljUwgzBGGUA/dkOqbmKKHS
+PqEaaSiYtIhS4EaquFHQNYUZEL7VhNvAbSlKoZEAIKQkxhpwZIH5V46+8ykGHadL
+ryzSamy8+vRHh2/JtXTkNqxfl12gXMetm/65Vp8121ZrOxa2TeG5pV3T0+zCDbvU
+0TZ67MDSyZWLx+Ov7zx19tmJd3r3N5++Y0P1Onm38/zspfMDna9Ptj7Y/coc/eOR
+1e92Pbx/8sYPbY+ebu5cmSnlf1w8ffszl6+qFxuN5uqpN/dMbi39dNc96y5M1X/u
+mt/9+8Gtx+fnOifqrz2wfr5x4MvGxL7SQLP3i7Dv86S7fO22vecqDXVfvzlyqLFl
+Cu4sXTv68bGT1+OzY5e/3X700NufVBZeurv9If7yiX2HZ59vn/3g/d8q286srF7p
++XB5pm3vwsV7q1f7tp+Ti6Y20l45OL58ZZEh9oYeOHFmk7m/q+upPVtyT7z1/XtT
+uPWbXzf+Mrvjkre570+sOITO
+=p0S2
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/brtknr
+
+==================================================================
+

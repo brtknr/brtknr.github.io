@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Osx on blinking thoughts</title>
+    <link>/tags/osx/</link>
+    <description>Recent content in Osx on blinking thoughts</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 17 Dec 2015 15:16:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/osx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use crontab to log CPU temperature on OSX!</title>
+      <link>/posts/use-crontab-to-log-cpu-temperature-on-osx/</link>
+      <pubDate>Thu, 17 Dec 2015 15:16:00 +0000</pubDate>
+      
+      <guid>/posts/use-crontab-to-log-cpu-temperature-on-osx/</guid>
+      <description>I have just set up a way to automatically log temperature using OSX terminal because my computer was frequently overheating and I wanted to investigate why. Here is breakdown of how I did it.
+First of all, I installed Temperature Monitor for OSX from this URL into the application folder.
+On terminal, I entered the following command to edit crontab using nano text editor environment.
+env EDITOR=nano crontab -e In the editor, I entered the following line which creates and appends date, time and temperatures from all your built-in sensors at a minute interval to ~/Documents/temp.</description>
+    </item>
+    
+    <item>
+      <title>Find and delete files and folders in OSX terminal</title>
+      <link>/posts/find-and-delete-files-and-folders-in-osx-terminal/</link>
+      <pubDate>Fri, 20 Nov 2015 10:54:00 +0000</pubDate>
+      
+      <guid>/posts/find-and-delete-files-and-folders-in-osx-terminal/</guid>
+      <description>Finding and deleting files and folders in OSX is simple. Open your terminal. In order to just find your files/folders (non destructive):
+For files:
+find . -name &amp;#34;Icon?&amp;#34; -type f For folders:
+find . -name &amp;#34;Icon?&amp;#34; -type d For files and folders
+find . -name &amp;#34;Icon?&amp;#34; -type f -o -name &amp;#34;Icon?&amp;#34; -type d In order to delete them, just add -delete operator to the end (DESTRUCTIVE):
+For files:
+find . -name &amp;#34;Icon?</description>
+    </item>
+    
+  </channel>
+</rss>
